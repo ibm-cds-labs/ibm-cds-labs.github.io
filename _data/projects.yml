@@ -1173,3 +1173,24 @@
     - Jupyter
     - Python
     - PixieDust
+
+- title:    "A.I for E.T."
+  headline: "Using Watson Data Platform, we've built a citizen scientist project to apply deep learning to improve the state of the art in the search for extraterrestrial intelligence (SETI) research." 
+  links: 
+    Medium: https://medium.com/ibm-watson-data-lab/using-artificial-intelligence-to-search-for-extraterrestrial-intelligence-ec19169e01af
+    GitHub: https://github.com/setiquest/ml4seti
+  img:      img/ml4seti_slack_logo.png
+  thumb:    img/ml4seti_slack_logo.png
+  strategies: 
+    - partners
+    - notebooks-for-developers
+    - working-with-wdp
+  tags: 
+    - Spark
+    - ObjectStorage
+    - DB2
+    - SETI
+    - DataScience
+    - CitizenScience
+    - DeepLearning
+    - MachineLearning
