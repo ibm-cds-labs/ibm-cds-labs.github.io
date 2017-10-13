@@ -1227,6 +1227,133 @@
     - JavaScript
     - OpenWhisk
 
+- title: "Building an Ordering Application with Watson AI and PostgreSQL: Part I"
+  features: 
+    - watson-and-data
+  headline: "An IBM Bluemix application that lets Watson interact with users via Twilio's SMS service, then sends their data over to Compose PostgreSQL."
+  links: 
+    Compose Articles: "https://compose.com/articles/building-an-ordering-application-with-watson-ai-and-compose-postgresql/"
+  strategies: 
+    - differentiators
+  tags: 
+    - Compose
+    - PostgreSQL
+    - Watson Conversation
+    - Nodejs
+    - Twilio
+
+- title: "Building an Ordering Application with Watson AI and PostgreSQL: Part II"
+  features: 
+    - watson-and-data
+  headline: "In part II, you'll tie together your services with Node.js and deploy to Bluemix."
+  links: 
+    Compose Articles: "https://compose.com/articles/building-an-ordering-application-with-watson-ai-and-compose-postgresql-part-ii/"
+  strategies: 
+    - differentiators
+  tags: 
+    - Compose
+    - PostgreSQL
+    - Watson Conversation
+    - Nodejs
+    - Twilio
+
+- title: "Making of a Smart Business Chatbot: Part 1"
+  features: 
+    - watson-and-data
+  headline: "Use Bluemix + Compose to build a chatbot that can reliably converse with users while collecting data and gaining insights on their personality and mood."
+  links: 
+    Compose Articles: "https://compose.com/articles/making-of-a-smart-business-chatbot/"
+  strategies: 
+    - differentiators
+  tags: 
+    - Nodejs
+    - Slack
+
+- title: "Making of a Smart Business Chatbot: Part 2"
+  features: 
+    - watson-and-data
+  headline: "Learn how to give your Slackbot some intelligence by connecting it to a Watson Conversation dialog."
+  links: 
+    Compose Articles: "https://compose.com/articles/making-of-a-smart-business-chatbot-part-2/"
+  strategies: 
+    - differentiators
+  tags: 
+    - Nodejs
+    - Watson Conversation
+    - Slack
+
+- title: "Connecting PHP to Compose for MySQL on Bluemix"
+  headline: "It's simple to to connect Compose for MySQL on Bluemix with PHP."
+  links: 
+    Compose Articles: "https://compose.com/articles/connecting-php-to-compose-for-mysql-on-bluemix/"
+  strategies: 
+    - working-with-wdp
+  tags: 
+    - Compose
+    - MySQL
+    - PHP
+
+- title: "The Transporter 0.4 series has begun"
+  features: 
+    - loading-data
+  headline: "Compose's Transporter is a powerful way of transporting data between different databases. With each iteration, we look to improve it."
+  links: 
+    GitHub: "https://github.com/compose/transporter"
+    Compose Articles: "https://compose.com/articles/the-transporter-0-4-series-has-begun/"
+  strategies: 
+    - working-with-wdp
+  tags: 
+    - Transporter
+    - JavaScript
+
+- title: "Making of a Smart Business Chatbot: Part 3"
+  features: 
+    - watson-and-data
+  headline: "Use a JanusGraph-backed knowledge base to give our chatbot some utility, and build a recommendation engine for technical blog articles."
+  links: 
+    Compose Articles: "https://compose.com/articles/building-a-smart-business-chatbot-part-3/"
+  strategies: 
+    - differentiators
+  tags: 
+    - Compose
+    - JanusGraph
+    - Watson Conversation
+    - Nodejs
+
+- title: "Getting Started with Compose PostgreSQL and Jupyter Notebooks"
+  features: 
+    - loading-data
+  headline: "Connect to Compose PostgreSQL and run a Jupyter Notebook environment within Docker to analyze a Titantic data set."
+  links: 
+    Compose Articles: "https://compose.com/articles/getting-started-with-compose-postgresql-and-jupyter-notebooks/"
+  strategies: 
+    - notebooks-for-developers
+    - working-with-wdp
+  tags: 
+    - Compose
+    - PostgreSQL
+    - Jupyter
+    - Docker
+
+- title: "Visualizing Data with Jupyter Notebooks, PixieDust, and Compose MongoDB"
+  features: 
+    - pixiedust-for-jupyter
+    - nodebooks
+    - loading-data
+  headline: "Connecting to Compose MongoDB and creating rich presentations for your data inside a Jupyter notebook is made easier with PixieDust."
+  links: 
+    Compose Articles: "https://compose.com/articles/visualizing-data-with-jupyter-notebooks-pixiedust-and-compose-mongodb/"
+  strategies: 
+    - notebooks-for-developers
+    - working-with-wdp
+  tags: 
+    - Jupyter
+    - Compose
+    - MongoDB
+    - PixieDust
+    - Python
+    - Nodejs
+
 - title: "Deploy Your Analytics as Web Apps Using PixieDust’s 1.1 Release"
   features: 
     - pixiedust-for-jupyter
@@ -1421,3 +1548,19 @@
   tags: 
     - PouchDB
     - Electron
+
+- title: "Better Decision Making with Watson Machine Learning and Compose"
+  features: 
+    - watson-and-data
+  headline: "You no longer need to be a stellar data scientist or machine learning guru, Watson Machine Learning and Compose have you covered."
+  links: 
+    Compose Articles: "https://compose.com/articles/better-decision-making-with-watson-machine-learning-and-compose/"
+  strategies: 
+    - notebooks-for-developers
+    - differentiators
+  tags: 
+    - Compose
+    - PostgreSQL
+    - Watson Machine Learning
+    - Jupyter
+    - Python
