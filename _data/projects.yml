@@ -1789,3 +1789,19 @@
     - Compose
     - PostgreSQL
     - Jupyter
+
+- title: "Building a Serverless Data Pipeline"
+  features:
+    - openwhisk-and-data
+  headline: "Data transformation is a great use case for serverless technology."
+  links:
+    GitHub: "https://github.com/ibm-watson-data-lab/soingest"
+    Medium: "https://medium.com/ibm-watson-data-lab/building-a-serverless-data-pipeline-8be2325f0d9a"
+    YouTube: "https://www.youtube.com/watch?v=VyZaWN9iyks"
+  strategies:
+    - working-with-wdp
+    - differentiators
+  tags:
+    - OpenWhisk
+    - Cloudant
+    - Tools
