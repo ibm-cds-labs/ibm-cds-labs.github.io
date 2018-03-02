@@ -1,8 +1,7 @@
 # Context at /strategies and /help.
 
-# Old stuff at the top; new stuff appended to the bottom.
-
 - title: "Metrics Collector: Analyze Web Metrics, Even With AJAX."
+  date: "2015-08-25"
   lead: raj-singh
   headline: "Lightweight tracking to record user actions on a single-page webapp."
   links: 
@@ -16,7 +15,10 @@
     - Piwik
     - Angular
 
+# Start 2016 below
+
 - title: "Field Work: Offline Editing and Mapping of Geospatial Data"
+  date: "2016-03-07"
   lead: raj-singh
   headline: "A demo app designed for utilities repair personnel who need to capture events in work orders."
   links: 
@@ -31,6 +33,7 @@
     - Nodejs
 
 - title: "Data-Driven Shopper Insights"
+  date: "2016-05-27"
   lead: raj-singh
   headline: "Crunch open demographics data, combined with your own sales data."
   links: 
@@ -43,6 +46,7 @@
     - Python
 
 - title: "Simple Logging Service: Our Metrics Collector App Rebuilt on a Microservices Stack"
+  date: "2016-03-03"
   lead: glynn-bird
   headline: "Instead of writing data to Cloudant, this project adds data to a variety of outputs depending on the runtime environment."
   links: 
@@ -58,6 +62,7 @@
     - Compose
 
 - title: "Offline-First QR Code Badge Scanner"
+  date: "2016-09-12"
   lead: glynn-bird
   headline: "Build a data collection app that captures and stores QR Code data, even when your network is unavailable."
   links: 
@@ -70,6 +75,7 @@
     - PouchDB
 
 - title: "Caching Cloudant Requests With cachemachine"
+  date: "2016-11-22"
   lead: glynn-bird
   headline: "Increase app response time and spare your data service. Use cachemachine and Cloudant's Node.js library to cache any HTTP service with Redis as the cache store."
   links: 
@@ -85,6 +91,7 @@
     - Compose
 
 - title: "Logshare: Stream Your Log Data With Colleagues"
+  date: "2016-03-14"
   lead: glynn-bird
   headline: "A Node.js app for sharing logs in a terminal window or on a webpage."
   links: 
@@ -99,6 +106,7 @@
     - Redis
 
 - title: "Weather Forecast with PixieDust"
+  date: "2016-10-06"
   lead: margriet-groenendijk
   features: 
     - weather-and-data
@@ -115,6 +123,7 @@
     - PixieDust
 
 - title: "Sentiment Analysis of Reddit AMAs"
+  date: "2016-06-23"
   features: 
     - watson-and-data
   headline: "Unlock the hidden sentiments of redditors."
@@ -133,6 +142,7 @@
     - "Watson Tone Analyzer"
 
 - title: "Predict Flight Delays with Apache Spark"
+  date: "2016-12-19"
   lead: va-barbosa
   features: 
     - weather-and-data
@@ -152,6 +162,7 @@
     - PixieDust
 
 - title: "Simple Search Service"
+  date: "2016-07-11"
   lead: glynn-bird
   features: 
     - simple-search
@@ -168,6 +179,7 @@
     - Redis
 
 - title: "Easy Frontends for Simple Search API"
+  date: "2016-05-12"
   lead: va-barbosa
   features: 
     - simple-search
@@ -181,6 +193,7 @@
     - JavaScript
 
 - title: "Cloudant FoodTracker Part 1: The Datastore"
+  date: "2016-01-25"
   features: 
     - food-tracker
   headline: "Replace Apple's local file storage with Cloudant's iOS library."
@@ -194,6 +207,7 @@
     - "iOS Swift"
 
 - title: "Cloudant FoodTracker Part 2: Sync to the Cloud"
+  date: "2016-06-08"
   features: 
     - food-tracker
   headline: "Enable sync for local data on an iOS device to cloud copies."
@@ -207,6 +221,7 @@
     - "iOS Swift"
 
 - title: "Cloudant FoodTracker Part 3: User Interface"
+  date: "2016-06-30"
   features: 
     - food-tracker
   headline: "Improve UI elements to reflect the data sync process."
@@ -220,6 +235,7 @@
     - "iOS Swift"
 
 - title: "Location Tracker Swift Client [1]"
+  date: "2016-06-14"
   lead: mark-watson
   features: 
     - location-tracker
@@ -234,6 +250,7 @@
     - "iOS Swift"
 
 - title: "Location Tracker Node.js Server [1.5]"
+  date: "2016-06-14"
   lead: mark-watson
   features: 
     - location-tracker
@@ -248,6 +265,7 @@
     - Nodejs
 
 - title: "Location Tracker Envoy Server [2]"
+  date: "2016-08-11"
   lead: mark-watson
   features: 
     - location-tracker
@@ -262,6 +280,7 @@
     - Nodejs
 
 - title: "Scaling Offline First With Cloudant Envoy"
+  date: "2016-07-11"
   lead: glynn-bird
   features: 
     - offline-camp
@@ -277,11 +296,13 @@
     - Nodejs
 
 - title: "Real-Time Q&A App With RethinkDB"
+  date: "2016-09-13"
   headline: "Get real-time, with changefeeds in RethinkDB."
   links: 
     GitHub: "https://github.com/ibm-watson-data-lab/rethinkdb-questions"
     developerWorks: "https://developer.ibm.com/clouddataservices/2016/09/13/real-time-qa-app-with-rethinkdb/"
   strategies: 
+    - get-connected-databases
     - working-with-json
   tags: 
     - Compose
@@ -290,6 +311,7 @@
     - Vuejs
 
 - title: "Plug into the Cloudant Node.js Library"
+  date: "2016-09-23"
   lead: glynn-bird
   headline: "JavaScript all the way down."
   links: 
@@ -297,11 +319,13 @@
     developerWorks: "https://developer.ibm.com/clouddataservices/2016/09/23/cloudant-nodejs-library-v1dot5/"
   strategies: 
     - working-with-json
+    - get-connected-databases
   tags: 
     - Cloudant
     - Nodejs
 
 - title: "CouchDB Document Copy and Transform Service"
+  date: "2016-09-28"
   lead: patrick-titzler
   features: 
     - loading-json
@@ -316,17 +340,6 @@
     - CouchDB
     - Nodejs
 
-- title: "Open Data Sets"
-  lead: raj-singh
-  headline: "Curated data, open and free for you to use."
-  links: 
-    dataset: "https://github.com/ibm-watson-data-lab/open-data"
-  strategies: 
-    - partners
-  tags: 
-    - Cloudant
-    - Jupyter
-
 - title: "Seven Databases in Seven Days"
   lead: lorna-mitchell
   features: 
@@ -336,6 +349,7 @@
     GitHub: "https://github.com/ibm-watson-data-lab/seven-days"
     developerWorks: "https://developer.ibm.com/clouddataservices/seven-databases-in-seven-days/"
   strategies: 
+    - get-connected-databases
     - working-with-json
   tags: 
     - Cloudant
@@ -1960,6 +1974,18 @@
     - serverless-and-data
   tags: 
     - OpenWhisk
+
+- title: "Open Data Sets"
+  date: "2018-01-30"
+  lead: raj-singh
+  headline: "Curated data, open and free for you to use."
+  links: 
+    dataset: "https://github.com/ibm-watson-data-lab/open-data"
+  strategies: 
+    - __
+  tags: 
+    - Cloudant
+    - Jupyter
 
 - title: "Creating Partial Cloudant Indexes"
   lead: glynn-bird
